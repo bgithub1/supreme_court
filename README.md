@@ -2,7 +2,12 @@
 ### The power of the Senate in determining Supreme Court social attitudes
 ___
 ### Usage:
-Open the ipynb notebook called "supreme_court.ipynb", and run all of the cells
+
+#### To just view the summary graphs and tables:
+Open the ipynb notebook called `supreme_court_justices_summary.ipynb`, and run all of the cells
+
+#### To rebuiild all of the supporting DataFrames from scratch:
+Open the ipynb notebook called`supreme_court_justices_build_all.ipynb`, and run all of the cells
 ___
 ### Background:
 This Jupyter Notebook shows the history the *political leanings* of the 31 distinct Supreme Courts since 1970. Since the U.S. Civil War, Republicans and Democrats have controlled both the presidency and the Senate.  At any time, when a Supreme Court justice leaves the court, the party of both the President and of the Senate leadership **determine the extremity of the next nominiee's politics**.  
