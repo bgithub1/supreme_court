@@ -1,0 +1,120 @@
+name,state,president,beg_date,end_date,beg_yyyymmdd,end_yyyymmdd,party,beg_yyyy,party_control,party_indicator,party_control_indicator,party_balance
+Rutledge John,South Carolina,Washington,(a) February 15 1790,March 5 1791,17900215,17910305,Independent ,1790,0,1,0,1.0
+Cushing William,Massachusetts,Washington,(c) February 2 1790,September 13 1810,17900202,18100913,Independent ,1790,0,1,0,1.0
+Wilson James,Pennsylvania,Washington,(b) October 5 1789,August 21 1798,17891005,17980821,Independent ,1789,0,1,0,1.0
+Blair John,Virginia,Washington,(c) February 2 1790,October 25 1795,17900202,17951025,Independent ,1790,0,1,0,1.0
+Iredell James,North Carolina,Washington,(b) May 12 1790,October 20 1799,17900512,17991020,Independent ,1790,0,1,0,1.0
+Johnson Thomas,Maryland,Washington,(a) August 6 1792,January 16 1793,17920806,17930116,Independent ,1792,0,1,0,1.0
+Paterson William,New Jersey,Washington,(a) March 11 1793,September 9 1806,17930311,18060909,Independent ,1793,0,1,0,1.0
+Chase Samuel,Maryland,Washington,February 4 1796,June 19 1811,17960204,18110619,Independent ,1796,0,1,0,1.0
+Washington Bushrod,Virginia,Adams John,November 9 1798,November 26 1829,17981109,18291126,Federalist ,1798,0,1,0,1.0
+Moore Alfred,North Carolina,Adams John,(a) April 21 1800,January 26 1804,18000421,18040126,Federalist ,1800,0,1,0,1.0
+Johnson William,South Carolina,Jefferson,May 7 1804,August 4 1834,18040507,18340804,Democratic-Republican ,1804,0,-1,0,-1.0
+Livingston Brockholst,New York,Jefferson,January 20 1807,March 18 1823,18070120,18230318,Democratic-Republican ,1807,0,-1,0,-1.0
+Todd Thomas,Kentucky,Jefferson,(a) May 4 1807,February 7 1826,18070504,18260207,Democratic-Republican ,1807,0,-1,0,-1.0
+Duvall Gabriel,Maryland,Madison,(a) November 23 1811,January 14 1835,18111123,18350114,Democratic-Republican ,1811,0,-1,0,-1.0
+Story Joseph,Massachusetts,Madison,(c) February 3 1812,September 10 1845,18120203,18450910,Democratic-Republican ,1812,0,-1,0,-1.0
+Thompson Smith,New York,Monroe,(b) September 1 1823,December 18 1843,18230901,18431218,Democratic-Republican ,1823,0,-1,0,-1.0
+Trimble Robert,Kentucky,Adams J. Q.,(a) June 16 1826,August 25 1828,18260616,18280825,Democratic-Republican/National Republican ,1826,0,-1,0,-1.0
+McLean John,Ohio,Jackson,(c) January 11 1830,April 4 1861,18300111,18610404,Democratic ,1830,0,-1,0,-1.0
+Baldwin Henry,Pennsylvania,Jackson,January 18 1830,April 21 1844,18300118,18440421,Democratic ,1830,0,-1,0,-1.0
+Wayne James Moore,Georgia,Jackson,January 14 1835,July 5 1867,18350114,18670705,Democratic ,1835,0,-1,0,-1.0
+Barbour Philip Pendleton,Virginia,Jackson,May 12 1836,February 25 1841,18360512,18410225,Democratic ,1836,0,-1,0,-1.0
+Catron John,Tennessee,Jackson,May 1 1837,May 30 1865,18370501,18650530,Democratic ,1837,0,-1,0,-1.0
+McKinley John,Alabama,Van Buren,(c) January 9 1838,July 19 1852,18380109,18520719,Democratic ,1838,0,-1,0,-1.0
+Daniel Peter Vivian,Virginia,Van Buren,(c) January 10 1842,May 31 1860,18420110,18600531,Whig,1842,0,1,0,1.0
+Nelson Samuel,New York,Tyler,February 27 1845,November 28 1872,18450227,18721128,Whig,1845,0,1,0,1.0
+Woodbury Levi,New Hampshire,Polk,(b) September 23 1845,September 4 1851,18450923,18510904,Democratic ,1845,0,-1,0,-1.0
+Grier Robert Cooper,Pennsylvania,Polk,August 10 1846,January 31 1870,18460810,18700131,Democratic ,1846,0,-1,0,-1.0
+Curtis Benjamin Robbins,Massachusetts,Fillmore,(b) October 10 1851,September 30 1857,18511010,18570930,Whig,1851,0,1,0,1.0
+Campbell John Archibald,Alabama,Pierce,(c) April 11 1853,April 30 1861,18530411,18610430,Democratic ,1853,0,-1,0,-1.0
+Clifford Nathan,Maine,Buchanan,January 21 1858,July 25 1881,18580121,18810725,Democratic ,1858,-19,-1,-1,-1.0
+Swayne Noah Haynes,Ohio,Lincoln,January 27 1862,January 24 1881,18620127,18810124,Republican/National Union,1862,20,1,1,1.0
+Miller Samuel Freeman,Iowa,Lincoln,July 21 1862,October 13 1890,18620721,18901013,Republican/National Union,1862,20,1,1,1.0
+Davis David,Illinois,Lincoln,December 10 1862,March 4 1877,18621210,18770304,Republican/National Union,1862,20,1,1,1.0
+Field Stephen Johnson,California,Lincoln,May 20 1863,December 1 1897,18630520,18971201,Republican/National Union,1863,20,1,1,1.0
+Strong William,Pennsylvania,Grant,March 14 1870,December 14 1880,18700314,18801214,Republican ,1870,50,1,1,1.0
+Bradley Joseph P.,New Jersey,Grant,March 23 1870,January 22 1892,18700323,18920122,Republican ,1870,50,1,1,1.0
+Hunt Ward,New York,Grant,January 9 1873,January 27 1882,18730109,18820127,Republican ,1873,40,1,1,1.0
+Harlan John Marshall,Kentucky,Hayes,December 10 1877,October 14 1911,18771210,19111014,Republican ,1877,17,1,1,1.0
+Woods William Burnham,Georgia,Hayes,January 5 1881,May 14 1887,18810105,18870514,Republican ,1881,-10,1,-1,0.0
+Matthews Stanley,Ohio,Garfield,May 17 1881,March 22 1889,18810517,18890322,Republican ,1881,-10,1,-1,0.0
+Gray Horace,Massachusetts,Arthur,January 9 1882,September 15 1902,18820109,19020915,Republican ,1882,0,1,0,1.0
+Blatchford Samuel,New York,Arthur,April 3 1882,July 7 1893,18820403,18930707,Republican ,1882,0,1,0,1.0
+Lamar Lucius Quintus C.,Mississippi,Cleveland,January 18 1888,January 23 1893,18880118,18930123,Democratic ,1888,2,-1,1,0.0
+Brewer David Josiah,Kansas,Harrison,January 6 1890,March 28 1910,18900106,19100328,Republican ,1890,10,1,1,1.0
+Brown Henry Billings,Michigan,Harrison,January 5 1891,May 28 1906,18910105,19060528,Republican ,1891,10,1,1,1.0
+Shiras George Jr.,Pennsylvania,Harrison,October 10 1892,February 23 1903,18921010,19030223,Republican ,1892,8,1,1,1.0
+Jackson Howell Edmunds,Tennessee,Harrison,March 4 1893,August 8 1895,18930304,18950808,Democratic ,1893,8,-1,1,0.0
+White Edward Douglass,Louisiana,Cleveland,March 12 1894,December 18 1910,18940312,19101218,Democratic ,1894,-6,-1,-1,-1.0
+Peckham Rufus Wheeler,New York,Cleveland,January 6 1896,October 24 1909,18960106,19091024,Democratic ,1896,5,-1,1,0.0
+McKenna Joseph,California,McKinley,January 26 1898,January 5 1925,18980126,19250105,Republican ,1898,12,1,1,1.0
+Holmes Oliver Wendell,Massachusetts,Roosevelt T.,December 8 1902,January 12 1932,19021208,19320112,Republican ,1902,27,1,1,1.0
+Day William Rufus,Ohio,Roosevelt T.,March 2 1903,November 13 1922,19030302,19221113,Republican ,1903,27,1,1,1.0
+Moody William Henry,Massachusetts,Roosevelt T.,December 17 1906,November 20 1910,19061217,19101120,Republican ,1906,26,1,1,1.0
+Lurton Horace Harmon,Tennessee,Taft,January 3 1910,July 12 1914,19100103,19140712,Republican ,1910,27,1,1,1.0
+Hughes Charles Evans,New York,Taft,October 10 1910,June 10 1916,19101010,19160610,Republican ,1910,27,1,1,1.0
+Van Devanter Willis,Wyoming,Taft,January 3 1911,June 2 1937,19110103,19370602,Republican ,1911,27,1,1,1.0
+Lamar Joseph Rucker,Georgia,Taft,January 3 1911,January 2 1916,19110103,19160102,Republican ,1911,27,1,1,1.0
+Pitney Mahlon,New Jersey,Taft,March 18 1912,December 31 1922,19120318,19221231,Republican ,1912,7,1,1,1.0
+McReynolds James Clark,Tennessee,Wilson,October 12 1914,January 31 1941,19141012,19410131,Democratic ,1914,-7,-1,-1,-1.0
+Brandeis Louis Dembitz,Massachusetts,Wilson,June 5 1916,February 13 1939,19160605,19390213,Democratic ,1916,-17,-1,-1,-1.0
+Clarke John Hessin,Ohio,Wilson,October 9 1916,September 18 1922,19161009,19220918,Democratic ,1916,-17,-1,-1,-1.0
+Sutherland George,Utah,Harding,October 2 1922,January 17 1938,19221002,19380117,Republican ,1922,22,1,1,1.0
+Butler Pierce,Minnesota,Harding,January 2 1923,November 16 1939,19230102,19391116,Republican ,1923,22,1,1,1.0
+Sanford Edward Terry,Tennessee,Harding,February 19 1923,March 8 1930,19230219,19300308,Republican ,1923,22,1,1,1.0
+Stone Harlan Fiske,New York,Coolidge,March 2 1925,July 2 1941,19250302,19410702,Republican ,1925,8,1,1,1.0
+Roberts Owen Josephus,Pennsylvania,Hoover,June 2 1930,July 31 1945,19300602,19450731,Republican ,1930,17,1,1,1.0
+Cardozo Benjamin Nathan,New York,Hoover,March 14 1932,July 9 1938,19320314,19380709,Republican ,1932,1,1,1,1.0
+Black Hugo Lafayette,Alabama,Roosevelt F.,August 19 1937,September 17 1971,19370819,19710917,Democratic,1937,-44,-1,-1,-1.0
+Reed Stanley Forman,Kentucky,Roosevelt F.,January 31 1938,February 25 1957,19380131,19570225,Democratic,1938,-58,-1,-1,-1.0
+Frankfurter Felix,Massachusetts,Roosevelt F.,January 30 1939,August 28 1962,19390130,19620828,Democratic,1939,-58,-1,-1,-1.0
+Douglas William Orville,Connecticut,Roosevelt F.,April 17 1939,November 12 1975,19390417,19751112,Democratic,1939,-58,-1,-1,-1.0
+Murphy Frank,Michigan,Roosevelt F.,February 5 1940,July 19 1949,19400205,19490719,Democratic,1940,-46,-1,-1,-1.0
+Byrnes James Francis,South Carolina,Roosevelt F.,July 8 1941,October 3 1942,19410708,19421003,Democratic,1941,-46,-1,-1,-1.0
+Jackson Robert Houghwout,New York,Roosevelt F.,July 11 1941,October 9 1954,19410711,19541009,Democratic,1941,-46,-1,-1,-1.0
+Rutledge Wiley Blount,Iowa,Roosevelt F.,February 15 1943,September 10 1949,19430215,19490910,Democratic,1943,-38,-1,-1,-1.0
+Burton Harold Hitz,Ohio,Truman,October 1 1945,October 13 1958,19451001,19581013,Democratic,1945,-19,-1,-1,-1.0
+Clark Tom Campbell,Texas,Truman,August 24 1949,June 12 1967,19490824,19670612,Democratic,1949,6,-1,1,0.0
+Minton Sherman,Indiana,Truman,October 12 1949,October 15 1956,19491012,19561015,Democratic,1949,6,-1,1,0.0
+Harlan John Marshall,New York,Eisenhower,March 28 1955,September 23 1971,19550328,19710923,Republican ,1955,2,1,1,1.0
+Brennan William J. Jr.,New Jersey,Eisenhower,October 16 1956,July 20 1990,19561016,19900720,Republican ,1956,-1,1,-1,0.0
+Whittaker Charles Evans,Missouri,Eisenhower,March 25 1957,March 31 1962,19570325,19620331,Republican ,1957,-1,1,-1,0.0
+Stewart Potter,Ohio,Eisenhower,October 14 1958,July 3 1981,19581014,19810703,Republican ,1958,-2,1,-1,0.0
+White Byron Raymond,Colorado,Kennedy,April 16 1962,June 28 1993,19620416,19930628,Democratic,1962,-28,-1,-1,-1.0
+Goldberg Arthur Joseph,Illinois,Kennedy,October 1 1962,July 25 1965,19621001,19650725,Democratic,1962,-28,-1,-1,-1.0
+Fortas Abe,Tennessee,Johnson L.,October 4 1965,May 14 1969,19651004,19690514,Democratic,1965,-34,-1,-1,-1.0
+Marshall Thurgood,New York,Johnson L.,October 2 1967,October 1 1991,19671002,19911001,Democratic,1967,-36,-1,-1,-1.0
+Blackmun Harry A.,Minnesota,Nixon,June 9 1970,August 3 1994,19700609,19940803,Republican,1970,-16,1,-1,0.0
+Powell Lewis F. Jr.,Virginia,Nixon,January 7 1972,June 26 1987,19720107,19870626,Republican,1972,-10,1,-1,0.0
+Rehnquist William H.,Arizona,Nixon,January 7 1972,September 26 1986,19720107,19860926,Republican,1972,-10,1,-1,0.0
+Stevens John Paul,Illinois,Ford,December 19 1975,June 29 2010,19751219,20100629,Republican,1975,-14,1,-1,0.0
+O'Connor Sandra Day,Arizona,Reagan,September 25 1981,January 31 2006,19810925,20060131,Republican ,1981,-17,1,-1,0.0
+Scalia Antonin,Virginia,Reagan,September 26 1986,February 13 2016,19860926,20160213,Republican ,1986,6,1,1,1.0
+Kennedy Anthony M.,California,Reagan,February 18 1988,July 31 2018,19880218,20180731,Republican ,1988,-10,1,-1,0.0
+Souter David H.,New Hampshire,Bush G. H. W.,October 9 1990,June 29 2009,19901009,20090629,Republican ,1990,-10,1,-1,0.0
+Thomas Clarence,Georgia,Bush G. H. W.,October 23 1991, January 01 2050,19911023,20500101,Republican ,1991,-10,1,-1,0.0
+Ginsburg Ruth Bader,New York,Clinton,August 10 1993, September 20 2020,19930810,20200920,Democratic ,1993,-12,-1,-1,-1.0
+Breyer Stephen G.,Massachusetts,Clinton,August 3 1994,January 01 2050,19940803,20500101,Democratic ,1994,-14,-1,-1,-1.0
+Alito Samuel A. Jr.,New Jersey,Bush G. W.,January 31 2006,January 01 2050,20060131,20500101,Republican ,2006,11,1,1,1.0
+Sotomayor Sonia,New York,Obama,August 8 2009,January 01 2050,20090808,20500101,  Democratic   ,2009,0,1,0,1.0
+Kagan Elena,Massachusetts,Obama,August 7 2010,January 01 2050,20100807,20500101,  Democratic   ,2010,-16,1,-1,0.0
+Gorsuch Neil M.,Colorado,Trump,April 10 2017,January 01 2050,20170410,20500101,  Republican   ,2017,10,1,1,1.0
+Kavanaugh Brett M.,Maryland,Trump,October 6 2018,January 01 2050,20181006,20500101,  Republican   ,2018,10,1,1,1.0
+Jay John,New York,Washington,(a) October 19 1789,June 29 1795,17891019,17950629,Independent ,1789,0,1,0,1.0
+Rutledge John,South Carolina,Washington,August 12 1795,December 15 1795,17950812,17951215,Independent ,1795,0,1,0,1.0
+Ellsworth Oliver,Connecticut,Washington,March 8 1796,December 15 1800,17960308,18001215,Independent ,1796,0,1,0,1.0
+Marshall John,Virginia,Adams John,February 4 1801,July 6 1835,18010204,18350706,Federalist ,1801,0,1,0,1.0
+Taney Roger Brooke,Maryland,Jackson,March 28 1836,October 12 1864,18360328,18641012,Democratic ,1836,0,-1,0,-1.0
+Chase Salmon Portland,Ohio,Lincoln,December 15 1864,May 7 1873,18641215,18730507,Republican/National Union,1864,27,1,1,1.0
+Waite Morrison Remick,Ohio,Grant,March 4 1874,March 23 1888,18740304,18880323,Republican ,1874,35,1,1,1.0
+Fuller Melville Weston,Illinois,Cleveland,October 8 1888,July 4 1910,18881008,19100704,Democratic ,1888,2,-1,1,0.0
+White Edward Douglass,Louisiana,Taft,December 19 1910,May 19 1921,19101219,19210519,Republican ,1910,27,1,1,1.0
+Taft William Howard,Connecticut,Harding,July 11 1921,February 3 1930,19210711,19300203,Republican ,1921,1,1,1,1.0
+Hughes Charles Evans,New York,Hoover,February 24 1930,June 30 1941,19300224,19410630,Republican ,1930,17,1,1,1.0
+Stone Harlan Fiske,New York,Roosevelt F.,July 3 1941,April 22 1946,19410703,19460422,Democratic,1941,-46,-1,-1,-1.0
+Vinson Fred Moore,Kentucky,Truman,June 24 1946,September 8 1953,19460624,19530908,Democratic,1946,-19,-1,-1,-1.0
+Warren Earl,California,Eisenhower,October 5 1953,June 23 1969,19531005,19690623,Republican ,1953,-1,1,-1,0.0
+Burger Warren Earl,Virginia,Nixon,June 23 1969,September 26 1986,19690623,19860926,Republican,1969,-28,1,-1,0.0
+Rehnquist William H.,Virginia,Reagan,September 26 1986,September 3 2005,19860926,20050903,Republican ,1986,6,1,1,1.0
+Roberts John G. Jr.,Maryland,Bush G. W.,September 29 2005,January 1 2050,20050929,20500101,Republican ,2005,3,1,1,1.0
